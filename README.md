@@ -1,4 +1,10 @@
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/burnfire1-ops/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/burnfire1-ops/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
 # LEGO Dragon Bursts Out of the Toy Box
+
+An entry for [make.fun's "Make the AI judge excited" bounty](https://make.fun/bounty/ai-excited-01).
 
 A rainbow LEGO dragon erupts from a wooden toy box in a child's bedroom,
 wings spread wide, LEGO bricks exploding into the air around it. A little
